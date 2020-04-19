@@ -1,8 +1,7 @@
 # Compiled Object files
 *.o
 
-# Executables
-*.exe
-
-# Binaries
-*.bin
+# Game files
+zombie-breakout
+records.bin
+IDBFS/
